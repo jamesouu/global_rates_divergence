@@ -42,8 +42,9 @@ This project reflects hands-on hedge fund experience translating macro trends in
 
 ---
 
-# 🚀 Future Extensions
+## 🚀 Future Extensions
 - Real-time yield curve and spread monitoring.
 - Scenario analysis for upcoming political and fiscal events.
+- generalized rates trading idea generating process.
 
 ---
