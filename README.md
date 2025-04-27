@@ -35,15 +35,6 @@ The slides summarize:
 
 ---
 
-## Repository Structure
-
-/README.md                 # Project overview
-/data/                     # Supporting datasets (optional)
-/outputs/
-final_presentation.pdf    # Final research presentation
-
----
-
 ## About
 
 I'm an aspiring **global macro investor**, with a focus on **cross-market rates dynamics**, **macro regime identification**, and **quantitative macro research**.  
